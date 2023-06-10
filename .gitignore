@@ -1,0 +1,6 @@
+# task is to not push file Credentials.js and folder keys
+credentials.js
+keys/
+# now this files will to been pushed wrt name of that files 
+# which you want to keep be secret and but you cann't wrt name then use 
+# services git ignore generator
